@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**TDK-99/TDK-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Valerio, a Data Analyst based in Rome 🇮🇹 with a big passion 
+for AI agents, LLMs, and everything that makes data come alive.
 
-Here are some ideas to get you started:
+### What I'm up to 🚀
+- 📊 Building dashboards and analytics solutions with **SQL**, 
+  **Python**, and **Power BI** (my daily bread 🍞)
+- 🤖 Developing agentic AI system
+- ⚙️ Automating the boring stuff with RPA and Python pipelines
+- 📚 Constantly leveling up my tech skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A bit about me 🌱
+- 💡 Curious mind with an entrepreneurial spirit
+- 🌍 Learning Farsi in my free time
+- 🏍️ Motorcycle enthusiast (Honda Hornet 600 🧡)
+- 🐱 Cat colony volunteer & animal lover
+- 🎮 Video game enthusiast
+- 🌱 Plant-based guy
+
+Always open to interesting projects, collaborations, and good 
+conversations about AI, data, or anything in between. 
+Feel free to reach out! ✉️
