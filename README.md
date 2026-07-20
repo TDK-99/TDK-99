@@ -25,14 +25,16 @@
 🐱 Cat colony volunteer & animal lover<br>
 🎮 Video game enthusiast<br>
 🌱 Plant-based guy<br>
-📫 Reach me on <b><a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></b>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noreferrer">
+<a href="https://linkedin.com/in/valeriomezzopra" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://valeriomezzopra.netlify.app/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/globe.svg" alt="Website" height="30" width="40" />
 </a>
 
 <br>
