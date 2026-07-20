@@ -73,7 +73,6 @@
       </a>
       <br><sub>Git</sub>
     </td>
-  </tr>
   <tr>
     <td align="center" width="80">
       <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
