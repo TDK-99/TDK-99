@@ -93,12 +93,6 @@
       <br><sub>Power Automate</sub>
     </td>
     <td align="center" width="80">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-      </a>
-      <br><sub>Docker</sub>
-    </td>
-    <td align="center" width="80">
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
       </a>
