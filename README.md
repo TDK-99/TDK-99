@@ -1,9 +1,11 @@
 <!-- Banner: decommenta e sostituisci con una tua immagine (1280x400px via Canva) -->
 <!-- ![MasterHead](URL_DEL_TUO_BANNER) -->
 
+<h1 align="center">Hi 👋, I'm Valerio</h1>
+
 <p align="center">
   <a href="https://github.com/TDK-99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Valerio;Data+Analyst+%26+AI+Engineer;Based+in+Rome%2C+Italy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+AI+Engineer;Based+in+Rome%2C+Italy;Automating+the+boring+stuff" alt="Typing SVG" />
   </a>
 </p>
 
