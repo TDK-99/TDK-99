@@ -1,7 +1,7 @@
 <!-- Banner: decommenta e sostituisci con una tua immagine (1280x400px via Canva) -->
 <!-- ![MasterHead](URL_DEL_TUO_BANNER) -->
 
-<h1 align="center">Hi 👋, I'm Valerio</h1>
+<h1 align="center">Hi 👋, I'm Valerio<img src="https://img.shields.io/github/stars/TDK-99?style=social" alt="Github Stars" /></h1>
 
 <p align="center">
   <a href="https://github.com/TDK-99">
