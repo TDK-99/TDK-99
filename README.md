@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/TDK-99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=800&color=ffa500&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+AI+Engineer;Based+in+Rome%2C+Italy;Automating+the+boring+stuff" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=800&color=ffa500&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+Engineer;Based+in+Rome%2C+Italy;Automating+the+boring+stuff" alt="Typing SVG" />
   </a>
 </p>
 
