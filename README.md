@@ -9,117 +9,49 @@
   </a>
 </p>
 
-<!-- GIF: quando trovi una lofi che ti piace, decommenta e metti il path -->
-<!-- <img align="right" alt="lofi" width="380" src="./lofi.gif"> -->
+- 📊 Data Analyst & Engineer based in Rome, building dashboards and automating pipelines for a living
+- 🤖 Currently exploring the agentic AI space — building multi-agent systems in my spare time
+- 🌍 Learning Farsi · 🏍️ Honda Hornet 600 rider · 🐱 Cat colony volunteer · 🌱 Plant-based
+- 💬 Ask me about Power BI design, Python automation, or getting started with AI agents
+---
+## 🛠 Languages & Tools
 
-📊 Building dashboards and analytics solutions with <b>SQL, Python, and Power BI</b> (my daily bread 🍞)<br>
-🤖 Developing <b>agentic AI systems</b><br>
-⚙️ Automating the boring stuff with <b>RPA and Python pipelines</b><br>
-📚 Constantly leveling up my tech skills<br>
-<br>
-<b>A bit about me</b> 🌱<br>
-<br>
-💡 Curious mind with an entrepreneurial spirit<br>
-🌍 Learning Farsi in my free time<br>
-🏍️ Motorcycle enthusiast (Honda Hornet 600 🧡)<br>
-🐱 Cat colony volunteer & animal lover<br>
-🎮 Video game enthusiast<br>
-🌱 Plant-based guy<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/apachespark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+## 🤖 AI & Agents
+
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23FF4F00.svg?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriomezzopra/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TDK-99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://valeriomezzopra.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vale.99.mezzo@gmail.com)
+
+---
+## 🔭 Currently working on
+
+Building agentic AI systems, open-source Python tools, and automating data pipelines.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/valeriomezzopra" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://valeriomezzopra.netlify.app/" target="_blank" rel="noreferrer">
-  <img src="./icons/www.png"  alt="Website" height="30" width="40" />
-</a>
-
-<br>
-
----
-
-<h3 align="left">Languages & Tools:</h3>
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <br><sub>Python</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <br><sub>MySQL</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-      </a>
-      <br><sub>FastAPI</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
-      </a>
-      <br><sub>Grafana</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-      </a>
-      <br><sub>Git</sub>
-    </td>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="./icons/powerbi.svg" alt="powerbi" width="40" height="40"/>
-      </a>
-      <br><sub>Power BI</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.knime.com/" target="_blank" rel="noreferrer">
-        <img src="./icons/knime.jpeg" alt="knime" width="40" height="40"/>
-      </a>
-      <br><sub>Knime</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="./icons/powerautomate.svg" alt="power-automate" width="40" height="40"/>
-      </a>
-      <br><sub>Power Automate</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-      </a>
-      <br><sub>Jupyter</sub>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-      <br><sub>MongoDB</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="left">What I'm working on:</h3>
-
-🤖 **Agentic AI** — Multi-agent systems with LangGraph, CrewAI, Ollama & MCP  
-📊 **Data Projects** — ETL pipelines, dashboards, data quality & automation  
-🛠️ **Side Projects** — Python tools & AI-powered apps  
-
----
-
-## 📊 GitHub
+## Git Stats
 
 <div align="center">
 
