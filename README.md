@@ -56,7 +56,7 @@ Building agentic AI systems, open-source Python tools, and automating data pipel
 
 <!-- Streak — theme-aware, Reado palette -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TDK-99&hide_border=true&background=1A1613&stroke=2C2620&ring=E07A5F&fire=E9B44C&currStreakLabel=E07A5F&sideLabels=A8A29E&currStreakNum=F5EFE7&sideNums=F5EFE7&dates=7A736A&titleColor=E9B44C" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=TDK-99&hide_border=true&background=FAF5EE&stroke=EAE0D3&ring=C15A3E&fire=D99A2B&currStreakLabel=C15A3E&sideLabels=6B6157&currStreakNum=2B2018&sideNums=2B2018&dates=B0A695&titleColor=D99A2B" alt="Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TDK-99&hide_border=true&background=1A1613&stroke=2C2620&ring=E07A5F&fire=E9B44C&currStreakLabel=E07A5F&sideLabels=A8A29E&currStreakNum=F5EFE7&sideNums=F5EFE7&dates=7A736A&titleColor=E9B44C&cache_seconds=0" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=TDK-99&hide_border=true&background=FAF5EE&stroke=EAE0D3&ring=C15A3E&fire=D99A2B&currStreakLabel=C15A3E&sideLabels=6B6157&currStreakNum=2B2018&sideNums=2B2018&dates=B0A695&titleColor=D99A2B&cache_seconds=0" alt="Streak" />
 </picture>
 
