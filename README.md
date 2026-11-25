@@ -50,10 +50,7 @@ Building agentic AI systems, open-source Python tools, and automating data pipel
 
 ---
 
-## Git Stats
+## 🚀 Contribution
 
-<div align="center">
-
-<!-- Streak — theme-aware, Reado palette -->
-<img width="100%" src="./profile/streak.svg" alt="Streak" />
+![My GitHub Game](game.gif)
 
